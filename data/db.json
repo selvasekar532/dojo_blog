@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "sekar",
+      "body": "dhhjlsjdljlksj",
+      "author": "yoshi",
+      "id": 7
+    },
+    {
+      "title": "ganesh",
+      "body": "hi there!.... this is ganesh",
+      "author": "mario",
+      "id": 9
+    }
+  ]
+}
